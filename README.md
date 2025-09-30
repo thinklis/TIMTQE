@@ -40,8 +40,8 @@ The main script is [`evaluate.py`](evaluate.py), which compares model prediction
 - **Metrics**: The following evaluation metrics are computed:
   - **Pearson correlation** – measures the linear relationship between predictions and human scores.
   - **Spearman correlation** – assesses rank-based consistency between predictions and labels.
-  - **RMSE (Root Mean Squared Error)** – penalizes larger deviations between predictions and reference scores.
-  - **MAE (Mean Absolute Error)** – captures the average absolute difference between predictions and labels.
+  - **RMSE** – penalizes larger deviations between predictions and reference scores.
+  - **MAE** – captures the average absolute difference between predictions and labels.
 
 ### 🚀 Usage
 ```bash
