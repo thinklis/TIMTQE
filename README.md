@@ -14,7 +14,7 @@ covering both **synthetic** (MLQE-PE) and **historical** (HistMTQE) settings.
 
 The dataset is publicly available on HuggingFace Datasets:  
 
-👉 [https://huggingface.co/datasets/TIMTQE/TIMTQE](https://huggingface.co/datasets/TIMTQE/TIMTQE)  
+👉 [https://huggingface.co/datasets/thinklis/TIMTQE](https://huggingface.co/datasets/thinklis/TIMTQE)  
 
 It includes:
 - **MLQE-PE** – large-scale synthetic subset with rendered text images.  
