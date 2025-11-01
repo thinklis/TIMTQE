@@ -56,12 +56,11 @@ python evaluate.py \
 If you use TIMTQE in your research, please cite it as follows:
 
 ```shell
-@dataset{Li2025TIMTQE,
+@misc{TIMTQE2025,
   title        = {TIMTQE: Text Image Machine Translation Quality Estimation Benchmark},
-  author       = {Li, Shuo and Bi, Xiaojun},
+  author       = {Li, Shuo and Bi, Xiaojun and Sun, Yiwen},
   year         = {2025},
-  publisher    = {Hugging Face Datasets},
-  url          = {https://huggingface.co/datasets/thinklis/TIMTQE},
-  note         = {Includes MLQE-PE (synthetic) and HistMTQE (historical) subsets for multimodal QE evaluation.}
+  howpublished = {\url{https://github.com/thinklis/TIMTQE}},
+  note         = {Official benchmark and evaluation toolkit for translation quality estimation on text images.}
 }
 ```
