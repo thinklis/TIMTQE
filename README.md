@@ -49,12 +49,13 @@ python evaluate.py \
   --pred_file results/predictions.json \
   --ref_file data/histmtqe/test.json \
   --output_dir outputs/
+```
 
-
-### 📚 Citation
+## 📚 Citation
 
 If you use TIMTQE in your research, please cite it as follows:
 
+```shell
 @dataset{Li2025TIMTQE,
   title        = {TIMTQE: Text Image Machine Translation Quality Estimation Benchmark},
   author       = {Li, Shuo and Bi, Xiaojun},
@@ -63,3 +64,4 @@ If you use TIMTQE in your research, please cite it as follows:
   url          = {https://huggingface.co/datasets/thinklis/TIMTQE},
   note         = {Includes MLQE-PE (synthetic) and HistMTQE (historical) subsets for multimodal QE evaluation.}
 }
+```
