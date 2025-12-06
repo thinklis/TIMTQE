@@ -56,11 +56,15 @@ python evaluate.py \
 If you use TIMTQE in your research, please cite it as follows:
 
 ```shell
-@misc{TIMTQE2025,
-  title        = {TIMTQE: Text Image Machine Translation Quality Estimation Benchmark},
-  author       = {Li, Shuo and Bi, Xiaojun and Sun, Yiwen},
-  year         = {2025},
-  howpublished = {\url{https://github.com/thinklis/TIMTQE}},
-  note         = {Official benchmark and evaluation toolkit for translation quality estimation on text images.}
-}
+@ARTICLE{11267222,
+  author={Li, Shuo and Bi, Xiaojun and Sun, Yiwen},
+  journal={IEEE Signal Processing Letters}, 
+  title={TIMTQE: Benchmarking Machine Translation Quality Estimation for Text Images}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Translation;Benchmark testing;Optical character recognition;Estimation;Correlation;Noise;Visualization;Multitasking;Machine translation;Pipelines;Cross-Lingual Evaluation;Multimodal Large Language Models;Text Images;Machine Translation;Quality Estimation},
+  doi={10.1109/LSP.2025.3636988}}
+
 ```
