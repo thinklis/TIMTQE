@@ -2,7 +2,7 @@
   <img src="imgs/TIMTQE_logo.png" alt="TIMTQE Logo" width="150"/>
 </p>
 
-# TIMTQE: Text Image Machine Translation Quality Estimation Benchmark
+# TIMTQE: Benchmarking Machine Translation Quality Estimation for Text Images
 
 This repository provides the official code and resources for **TIMTQE**,  
 a benchmark dataset and evaluation framework for translation quality estimation (QE) on text images,  
@@ -64,7 +64,7 @@ If you use TIMTQE in your research, please cite it as follows:
   volume={},
   number={},
   pages={1-5},
-  keywords={Translation;Benchmark testing;Optical character recognition;Estimation;Correlation;Noise;Visualization;Multitasking;Machine translation;Pipelines;Cross-Lingual Evaluation;Multimodal Large Language Models;Text Images;Machine Translation;Quality Estimation},
-  doi={10.1109/LSP.2025.3636988}}
+  doi={10.1109/LSP.2025.3636988}
+}
 
 ```
